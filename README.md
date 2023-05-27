@@ -1,0 +1,2 @@
+# xiaomi_18mm_oled_CHUNMI_CMIHCG20D01
+CHUNMI CMIHCG20D01 QR01, oled SPI procotol
